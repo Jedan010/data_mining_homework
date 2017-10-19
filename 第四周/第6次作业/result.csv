@@ -1,0 +1,12 @@
+RelationRecord(items=frozenset({'k', 'e'}), support=0.8, ordered_statistics=[OrderedStatistic(items_base=frozenset({'e'}), items_add=frozenset({'k'}), confidence=1.0, lift=1.0), OrderedStatistic(items_base=frozenset({'k'}), items_add=frozenset({'e'}), confidence=0.8, lift=1.0)])
+
+RelationRecord(items=frozenset({'e', 'o'}), support=0.6, ordered_statistics=[OrderedStatistic(items_base=frozenset({'o'}), items_add=frozenset({'e'}), confidence=1.0, lift=1.25)])
+
+RelationRecord(items=frozenset({'k', 'm'}), support=0.6, ordered_statistics=[OrderedStatistic(items_base=frozenset({'m'}), items_add=frozenset({'k'}), confidence=1.0, lift=1.0)])
+
+RelationRecord(items=frozenset({'k', 'o'}), support=0.6, ordered_statistics=[OrderedStatistic(items_base=frozenset({'o'}), items_add=frozenset({'k'}), confidence=1.0, lift=1.0)])
+
+RelationRecord(items=frozenset({'k', 'y'}), support=0.6, ordered_statistics=[OrderedStatistic(items_base=frozenset({'y'}), items_add=frozenset({'k'}), confidence=1.0, lift=1.0)])
+
+RelationRecord(items=frozenset({'k', 'e', 'o'}), support=0.6, ordered_statistics=[OrderedStatistic(items_base=frozenset({'e', 'o'}), items_add=frozenset({'k'}), confidence=1.0, lift=1.0), OrderedStatistic(items_base=frozenset({'k', 'o'}), items_add=frozenset({'e'}), confidence=1.0, lift=1.25)])
+
