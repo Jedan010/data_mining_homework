@@ -1,7 +1,7 @@
 maping = {'Status_of_existing_checking_account':
-{'A11': 100 , 
-'A12': 200, 
-'A13': 400 , 
+{'A11': 1 , 
+'A12': 2, 
+'A13': 3 , 
 'A14': 0, },
 
 'Credit_history':
@@ -12,18 +12,18 @@ maping = {'Status_of_existing_checking_account':
 'A34': 0, },
 
 'Savings_account':
-{'A61': 100, 
-'A62': 500, 
-'A63': 1000, 
-'A64': 2000, 
-'A65': 1, },
+{'A61': 1, 
+'A62': 2, 
+'A63': 3, 
+'A64': 4, 
+'A65': 0, },
 
 'Present_employment_since':
 {'A71': 0, 
 'A72': 1, 
-'A73': 4, 
-'A74': 7, 
-'A75': 10, },
+'A73': 2, 
+'A74': 3, 
+'A75': 4, },
 
 'guarantors':
 {'A101': 0, 
@@ -31,10 +31,10 @@ maping = {'Status_of_existing_checking_account':
 'A103': 2, },
 
 'Property':
-{'A121': 4, 
-'A122': 3, 
-'A123': 2, 
-'A124': 1, },
+{'A121': 3, 
+'A122': 2, 
+'A123': 1, 
+'A124': 0, },
 
 'Housing':
 {'A151': 1, 
@@ -42,15 +42,8 @@ maping = {'Status_of_existing_checking_account':
 'A153': 0, },
 
 'Job':
-{'A171': 1, 
-'A172': 2, 
-'A173': 3, 
-'A174': 4, },
-
-'Telephone':
-{'A191': 0, 
-'A192': 1, },
-          
-'foreign_worker':
-{'A201': 1,
-'A202': 0}}
+{'A171': 0, 
+'A172': 1, 
+'A173': 2, 
+'A174': 3, },
+}
